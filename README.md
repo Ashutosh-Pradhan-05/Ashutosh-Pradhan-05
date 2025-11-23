@@ -54,13 +54,13 @@
 <div align="center">
 
 ### 🚀 *Contribution Stats*
-<img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Pradhan-05&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Pradhan-05&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="200" />
 
 ### 🔥 *Streak*
-<img src="https://nirzak-streak-stats.vercel.app/?user=Ashutosh-Pradhan-05&theme=tokyonight&hide_border=false" height="200" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Ashutosh-Pradhan-05&theme=transparent&hide_border=true" height="200" />
 
 ### 🧠 *Most Used Tech Stacks*
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Pradhan-05&layout=compact&theme=tokyonight&hide_border=false" height="200" width="1600" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Pradhan-05&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="200" width="1600" />
 
 ### 👀 *Profile Visits across globe*
 <p align="center">
@@ -73,7 +73,7 @@
 # 🏆 **Achievements & Trophies**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashutosh-Pradhan-05&theme=dracula&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashutosh-Pradhan-05&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 # ✍️ **Dev Quotes**
@@ -86,7 +86,7 @@
 # 🔝 **Top Contributed Repositories**
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ashutosh-Pradhan-05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ashutosh-Pradhan-05&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true" />
 </p>
 
 
