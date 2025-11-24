@@ -54,7 +54,7 @@
 <div align="center">
 
 ### 🚀 *Contribution Stats*
-<img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Pradhan-05&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Pradhan-05&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" height="200"/>
 
 ### 🔥 *Streak*
 <img src="https://nirzak-streak-stats.vercel.app/?user=Ashutosh-Pradhan-05&theme=transparent&hide_border=true" height="200" />
